@@ -1,0 +1,42 @@
+Report Name: Produt Rollups
+Month Run: July 2022
+
+
+Product Subcategory	Product Category
+BIKE RACKS	PC-Accessories
+BIKE STANDS	PC-Accessories
+BOTTLES AND CAGES	PC-Accessories
+CLEANERS	PC-Accessories
+FENDERS	PC-Accessories
+HELMETS	PC-Accessories
+HYDRATION PACKS	PC-Accessories
+LIGHTS	PC-Accessories
+LOCKS	PC-Accessories
+PANNIERS	PC-Accessories
+PUMPS	PC-Accessories
+TIRES AND TUBES	PC-Accessories
+Mountain Bikes	PC-Bikes
+Road Bikes	PC-Bikes
+Touring Bikes	PC-Bikes
+BIB-SHORTS	PC-Clothing
+CAPS	PC-Clothing
+GLOVES	PC-Clothing
+JERSEYS	PC-Clothing
+SHORTS	PC-Clothing
+SOCKS	PC-Clothing
+TIGHTS	PC-Clothing
+VESTS	PC-Clothing
+BOTTOM BRACKETS	PC-Components
+BRAKES	PC-Components
+CHAINS	PC-Components
+CRANKSETS	PC-Components
+DERAILLEURS	PC-Components
+FORKS	PC-Components
+HANDLEBARS	PC-Components
+HEADSETS	PC-Components
+MOUNTAIN FRAMES	PC-Components
+PEDALS	PC-Components
+ROAD FRAMES	PC-Components
+SADDLES	PC-Components
+TOURING FRAMES	PC-Components
+WHEELS	PC-Components
